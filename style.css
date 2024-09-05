@@ -1,0 +1,19 @@
+.color-title{
+    font-weight: normal;
+}
+
+img{
+    height: 200px;
+    width: 200px;
+}
+*{
+    background-color: rgb(0, 255, 242);
+}
+
+h1{
+    font-variant:small-caps;
+}
+
+#title{
+    font-style: italic;
+}
